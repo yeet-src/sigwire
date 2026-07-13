@@ -1,0 +1,8 @@
+{
+  "name": "sigwire",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "sigwire — a live signal switchboard: every signal delivered between processes on your box, decoded and streamed to your terminal.",
+  "dependencies": {}
+}
